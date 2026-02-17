@@ -46,7 +46,7 @@ https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-repli
 
 ---
 
-## Contact
+## Refernce Link(s)
 
 - LinkedIn: https://www.linkedin.com/in/kula-zodua/
 - GitHub: https://github.com/kazdata/
