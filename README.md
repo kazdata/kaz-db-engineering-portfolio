@@ -29,8 +29,8 @@ https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-repli
 |--------|------------|------|
 | PostgreSQL Logical Replication SOP | CDC + WAL Monitoring | https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication) |
 | Backup Automation Toolkit | Disaster Recovery | Coming Soon |
-| PostgreSQL Performance Tuning Scripts | Optimization + Indexing | Coming Soon |
-| AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability | Coming Soon |
+| PostgreSQL Performance Tuning Scripts | Optimization + Indexing |
+| AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability |
 
 
 ---
