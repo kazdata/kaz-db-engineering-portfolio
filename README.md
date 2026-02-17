@@ -23,6 +23,16 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 Repository:  
 https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication
 
+## Featured Projects
+
+| Project | Focus Area | Link |
+|--------|------------|------|
+| PostgreSQL Logical Replication SOP | CDC + WAL Monitoring | https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication) |
+| Backup Automation Toolkit | Disaster Recovery | Coming Soon |
+| PostgreSQL Performance Tuning Scripts | Optimization + Indexing | Coming Soon |
+| AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability | Coming Soon |
+
+
 ---
 
 ## Core Skills Demonstrated
