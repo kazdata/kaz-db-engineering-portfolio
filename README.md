@@ -1,4 +1,4 @@
-# Database Engineering Portfolio
+# KAZ Database Engineering Portfolio
 
 Welcome. This repository is a curated portfolio of my work as a Database Engineer
 supporting PostgreSQL, Oracle, AWS RDS/Aurora, production operations, and DevOps-driven database reliability.
