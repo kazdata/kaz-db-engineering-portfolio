@@ -21,7 +21,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 - Production readiness and on-call playbooks
 
 Repository:  
-https://github.com/YOUR_USERNAME/postgresql-logical-replication-sop
+https://github.com/kazdata/postgresql-logical-replication-sop
 
 ---
 
