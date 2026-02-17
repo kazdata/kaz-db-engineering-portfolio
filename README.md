@@ -32,7 +32,7 @@ https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-repli
 | PostgreSQL Performance Tuning Scripts | Optimization + Indexing | https://github.com/kazdata/postgresql-performance-tuning-toolkit|
 | PostgreSQL Backup and Recovery Toolkit | AWS RDS + Self-Managed Backup, Restore, DR | https://github.com/kazdata/postgresql-backup-and-recovery-toolkit|
 | Backup Automation Toolkit | Disaster Recovery | https://github.com/kazdata/postgresql-automation-toolkit | 
-| AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability | Coming Soon | https://github.com/kazdata/postgresql-ops-toolkit | 
+| AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability | https://github.com/kazdata/aws-rds-aurora-operations-runbooks| 
 
 ---
 
