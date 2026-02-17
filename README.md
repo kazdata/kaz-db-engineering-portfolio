@@ -56,7 +56,6 @@ https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-repli
 ## Upcoming Additions
 
 - Backup and recovery automation scripts
-- PostgreSQL performance tuning toolkit
 - RDS upgrade and patching runbooks
 - Database monitoring dashboards and alert strategy
 
