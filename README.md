@@ -33,6 +33,7 @@ https://github.com/kazdata/postgresql-logical-replication-sop
 - Database operational documentation (SOPs and runbooks)
 - AWS RDS and Aurora PostgreSQL administration
 - Secure privilege and access management
++++ More
 
 ---
 
