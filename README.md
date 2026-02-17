@@ -25,7 +25,7 @@ https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-repli
 
 ## Featured Projects
 
-| Project | Focus Area | Link |
+| Project | Focus Area | Link/Repository |
 |--------|------------|------|
 | PostgreSQL Logical Replication SOP | CDC + WAL Monitoring | https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication |
 | Postgresql-High-Availability-And-DR-Toolkit | focus Area (To be added) | https://github.com/kazdata/postgresql-high-availability-and-dr-toolkit | 
