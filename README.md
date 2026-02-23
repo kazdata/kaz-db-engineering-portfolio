@@ -53,8 +53,8 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 
 ## Upcoming Additions
 
-- Backup and recovery automation scripts
-- RDS upgrade and patching runbooks
+- Automation scripts
+- Patching runbooks
 - Database monitoring dashboards and alert strategy
 
 ---
