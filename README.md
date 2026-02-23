@@ -20,8 +20,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 - WAL backlog monitoring
 - Production readiness and on-call playbooks
 
-Repository:  
-https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication
++++Repos
 
 ## Featured Projects
 
