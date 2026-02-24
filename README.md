@@ -61,5 +61,5 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 
 ## Refernce Link(s)
 
-- LinkedIn: https://www.linkedin.com/in/kula-zodua/
+- LinkedIn: https://www.linkedin.com/in/kulah-zoduah/
 - GitHub: https://github.com/kazdata/
