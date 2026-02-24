@@ -1,4 +1,4 @@
-# KAZ Database Engineering Portfolio
+# KAZ Database Engineering Portfolio  ---NY
 
 Welcome. 
 This repository is a curated portfolio of my work as a Database Engineer/Administrator/Architect
