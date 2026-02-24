@@ -28,7 +28,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 | Project | Focus Area | Link/Repository |
 |--------|------------|------|
 | PostgreSQL Logical Replication SOP | CDC + WAL Monitoring *Ckd| https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication |
-| Postgresql-High-Availability-And-DR-Toolkit | HA/DR *****IP| https://github.com/kazdata/postgresql-high-availability-and-dr-toolkit | 
+| Postgresql-High-Availability-And-DR-Toolkit | HA/DR | https://github.com/kazdata/postgresql-high-availability-and-dr-toolkit | 
 | PostgreSQL Monitoring Toolkit | Health Checks, Alerts, On-Call Runbooks *Ckd| https://github.com/kazdata/postgresql-monitoring-toolkit |
 | PostgreSQL Performance Tuning Scripts | Optimization + Indexing *Ckd| https://github.com/kazdata/postgresql-performance-tuning-toolkit|
 | PostgreSQL Backup and Recovery Toolkit | AWS RDS + Self-Managed Backup, Restore, DR | https://github.com/kazdata/postgresql-backup-and-recovery-toolkit|
