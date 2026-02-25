@@ -63,3 +63,6 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 
 - LinkedIn: https://www.linkedin.com/in/kulah-zoduah/
 - GitHub: https://github.com/kazdata/
+  
+db-engineering-portfolio (ref'd)
+- https://github.com/kazdata/kaz-db-engineering-portfolio
