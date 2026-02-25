@@ -34,8 +34,8 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 | PostgreSQL Backup and Recovery Toolkit | AWS RDS + Self-Managed Backup, Restore, DR ***IP| https://github.com/kazdata/postgresql-backup-restore-automation-toolkit|
 | PostgreSQL Backup and Restore Automation Toolkit | Backup Automation + Restore Testing ***IP| https://github.com/kazdata/postgresql-backup-restore-automation-toolkit | 
 | AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability | https://github.com/kazdata/aws-rds-aurora-operations-runbooks| 
-| ***************************** | *********************************2 | ***************************3|
-| ***************************** | *********************************2 | ***************************3|
+| ... | ... | ...|
+| ... | ... | ...|
 
 ---
 
