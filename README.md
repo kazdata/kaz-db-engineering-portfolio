@@ -53,16 +53,17 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 
 ## Upcoming Additions
 
-- Automation scripts
+- Automation scripts + Terraform + Ansible
 - Patching runbooks
 - Database monitoring dashboards and alert strategy
-
+- ...
+  
 ---
 
-## Refernce Link(s)
+## Reference Link(s)
 
 - LinkedIn: https://www.linkedin.com/in/kulah-zoduah/
 - GitHub: https://github.com/kazdata/
   
-db-engineering-portfolio (ref'd)
+db-engineering-portfolio deck (ref'd)
 - https://github.com/kazdata/kaz-db-engineering-portfolio
