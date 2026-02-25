@@ -21,7 +21,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 - WAL backlog monitoring
 - Production readiness and on-call playbooks
 
-+++Repos
+.......
 
 ## Featured Projects
 
