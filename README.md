@@ -63,5 +63,5 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 ## Reference Link(s)
 - GitHub: https://github.com/kazdata/
   
-db-engineering-portfolio deck (ref'd)
+db-engineering-portfolio deck (ref'd')
 - https://github.com/kazdata/kaz-db-engineering-portfolio
