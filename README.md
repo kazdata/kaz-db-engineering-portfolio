@@ -25,7 +25,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 
 ## Featured Projects
 
-| Project | Focus Area | Link/Repository |
+| Project | Focus Area | Link/Sub-Repository |
 |--------|------------|------|
 | PostgreSQL Logical Replication SOP | CDC + WAL Monitoring | https://github.com/kazdata/postgresql-db-deck/tree/main/postgresql-logical-replication |
 | Postgresql-High-Availability-And-DR-Toolkit | HA/DR | https://github.com/kazdata/postgresql-high-availability-and-dr-toolkit | 
