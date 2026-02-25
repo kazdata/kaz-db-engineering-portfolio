@@ -31,8 +31,8 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 | Postgresql-High-Availability-And-DR-Toolkit | HA/DR | https://github.com/kazdata/postgresql-high-availability-and-dr-toolkit | 
 | PostgreSQL Monitoring Toolkit | Health Checks, Alerts, On-Call Runbooks | https://github.com/kazdata/postgresql-monitoring-toolkit |
 | PostgreSQL Performance Tuning Scripts | Optimization + Indexing | https://github.com/kazdata/postgresql-performance-tuning-toolkit|
-| PostgreSQL Backup and Recovery Toolkit | AWS RDS + Self-Managed Backup, Restore, DR *IP| https://github.com/kazdata/postgresql-backup-and-recovery-toolkit|
-| Backup Automation Toolkit | Disaster Recovery *IP| https://github.com/kazdata/postgresql-automation-toolkit | 
+| PostgreSQL Backup and Recovery Toolkit | AWS RDS + Self-Managed Backup, Restore, DR ***IP| https://github.com/kazdata/postgresql-backup-and-recovery-toolkit|
+| Backup Automation Toolkit | Disaster Recovery ***IP| https://github.com/kazdata/postgresql-automation-toolkit | 
 | AWS RDS/Aurora Operations Runbooks | Cloud Database Reliability | https://github.com/kazdata/aws-rds-aurora-operations-runbooks| 
 | ***************************** | *********************************2 | ***************************3|
 | ***************************** | *********************************2 | ***************************3|
