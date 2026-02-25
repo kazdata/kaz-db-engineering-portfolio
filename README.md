@@ -47,7 +47,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 - Database operational documentation (SOPs and runbooks)
 - AWS RDS and Aurora PostgreSQL administration
 - Secure privilege and access management
-- +++ More
+- ...
 
 ---
 
