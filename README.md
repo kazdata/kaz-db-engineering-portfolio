@@ -51,7 +51,7 @@ A complete implementation and operational runbook for PostgreSQL logical replica
 
 ---
 
-## Upcoming Additions
+## Upcoming Projects
 
 - Automation scripts + Terraform + Ansible
 - Patching runbooks
