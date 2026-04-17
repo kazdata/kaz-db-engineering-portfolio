@@ -9,18 +9,6 @@ and production support documentation.
 
 ---
 
-## Featured Projects
-
-### 1. PostgreSQL Logical Replication (Informatica CDC Support)
-
-A complete implementation and operational runbook for PostgreSQL logical replication using:
-
-- Publications and replication slots
-- Multi-table replication
-- Replica Identity FULL handling
-- WAL backlog monitoring
-- Production readiness and on-call playbooks
-
 .......
 
 ## Featured Projects
