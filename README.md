@@ -1,4 +1,4 @@
-# KAZ Database Engineering Portfolio
+# Kula Z. Database Engineering Portfolio
 
 Welcome. 
 This repository is a curated portfolio of my work as a Database Engineer/Administrator/Architect
