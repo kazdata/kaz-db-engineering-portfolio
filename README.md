@@ -1,8 +1,13 @@
 # Kula Z. Database Engineering Portfolio
+Supporting Databases |Apps - On-Prem and Cloud
 
+Oracle | SQL Server | PostgreSQL | MySQL | AWS | DevOps | AI Security & Strategy
+---
 Welcome. 
-This repository is a curated portfolio of my work as a Database Engineer/Administrator/Architect
-supporting PostgreSQL, Oracle, SQL Server, AWS RDS/Aurora, MySQL, MariaDB, Production Operations, and DevOps-driven Database Reliability Efforts.
+---
+This repository is a curated portfolio of my work as a Database Engineer/Administrator/Architect And DB SRE
+supporting Oracle, SQL Server, PostgreSQL, MySQL, AWS RDS/Aurora, MariaDB, Production Operations, 
+and DevOps-driven Database Reliability Efforts.
 
 This portfolio includes real-world SOPs, automation scripts, monitoring runbooks,
 and production support documentation.
