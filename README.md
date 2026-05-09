@@ -3,7 +3,7 @@ Supporting Databases |Apps - On-Prem and Cloud
 
 Oracle | SQL Server | PostgreSQL | MySQL | AWS | DevOps | AI Security & Strategy
 ---
-Welcom
+Welcome
 ---
 This repository is a curated portfolio of my work as a Database Engineer/Administrator/Architect And DB SRE
 supporting Oracle, SQL Server, PostgreSQL, MySQL, AWS RDS/Aurora, MariaDB, Production Operations, 
